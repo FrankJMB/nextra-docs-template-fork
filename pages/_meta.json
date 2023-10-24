@@ -1,6 +1,8 @@
 {
   "index": "Introduction",
   "another": "Another Page",
+  "frank": "Frank Page",
+  "mypage": "My Page",
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
